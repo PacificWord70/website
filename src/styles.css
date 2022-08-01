@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 0rem;
+}
+
+.edgless {
+    margin: 0rem;
+    border: 0rem;
+    padding: 0rem;
+}
+
+.buffer {
+    min-height: 30vh;
+}
